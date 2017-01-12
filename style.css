@@ -1,0 +1,27 @@
+body {
+  background-color: pink;
+  margin: 0 auto;
+}
+
+#quoteBox {
+  margin: 10% 20%;
+  background-color: white;
+  border-radius: 1%;
+  padding: 20px 20px 20px 20px;
+  font-family: lato;
+  font-size: 24px;
+}
+
+#quote {
+  color: pink;
+}
+
+#author {
+  color: pink;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:visited, .btn-primary:focus, .btn-primary:active, .btn-primary:active:focus {
+  background-color: pink;
+  border: 0 none;
+  outline: none;
+}
